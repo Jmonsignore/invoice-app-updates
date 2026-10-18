@@ -1,0 +1,6 @@
+{
+  "version": "1.1.0",
+  "url": "https://raw.githubusercontent.com/Jmonsignore/invoice-app-updates/main/invoice-app.jar",
+  "sha256": "135a44e04cd201f47bee5943bd167e76b69c48d3a004b325877553782a0a0a96",
+  "notes": "Update button, Customers tab, due date options and text-only lines."
+}
