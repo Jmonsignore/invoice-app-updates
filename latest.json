@@ -1,6 +1,6 @@
 {
-  "version": "1.1.2",
+  "version": "1.1.3",
   "url": "https://raw.githubusercontent.com/Jmonsignore/invoice-app-updates/main/invoice-app.jar",
-  "sha256": "c28e086e8d0605f0846eb840747828a8bb1cded37e15f99c973248bee1875087",
-  "notes": "Contact and company names for customers; Documents tab with a Paid checkbox for invoices."
+  "sha256": "3350ea8a8c56e153c3e6afedf844bcf211e96c53719ee5e48f4bdb067b0664f6",
+  "notes": "Closing the browser tab now closes the app; double-click the Invoices icon to open it again. Unsaved changes are kept and come back when you reopen."
 }
