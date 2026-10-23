@@ -1,6 +1,6 @@
 {
-  "version": "1.1.9",
+  "version": "1.1.10",
   "url": "https://raw.githubusercontent.com/Jmonsignore/invoice-app-updates/main/invoice-app.jar",
-  "sha256": "5b36a0417285ca67a8b2a77604733431d735e733453469f3a87890b132173e0a",
-  "notes": "Documents tab: delete invoices and estimates (with a confirmation), and invoices and estimates now show under separate headers."
+  "sha256": "3d8fd61eaa7241fb07810386fc72cb25bf157e2f8ddce0face0b8dbb32c9b08c",
+  "notes": "Prepared by: set a default name in Settings, change it on each invoice or estimate, and it prints on the Excel and PDF. Text-only lines can now be bold and slightly larger (the B button)."
 }
