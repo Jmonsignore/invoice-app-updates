@@ -1,6 +1,6 @@
 {
-  "version": "1.1.8",
+  "version": "1.1.9",
   "url": "https://raw.githubusercontent.com/Jmonsignore/invoice-app-updates/main/invoice-app.jar",
-  "sha256": "e8f38911a209f90fae77aa986ea10cb69ecabc2e006e40c7f5c7b021eb14c4a6",
-  "notes": "Addresses now have separate Street address, City, State and ZIP boxes (your saved addresses carry over). The app also has a cleaner, more polished look, and Settings has a new Appearance section with six themes to choose from, including a dark one."
+  "sha256": "5b36a0417285ca67a8b2a77604733431d735e733453469f3a87890b132173e0a",
+  "notes": "Documents tab: delete invoices and estimates (with a confirmation), and invoices and estimates now show under separate headers."
 }
