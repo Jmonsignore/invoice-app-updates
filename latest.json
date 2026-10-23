@@ -2,5 +2,5 @@
   "version": "1.1.7",
   "url": "https://raw.githubusercontent.com/Jmonsignore/invoice-app-updates/main/invoice-app.jar",
   "sha256": "89747e471b97c74aa8ed63fa43294e023ef58f15cc94d45aa276593043792429",
-  "notes": "Your company logo (uploaded in Settings) is now the icon in the browser tab and on the desktop Invoices shortcut. Also: every invoice and estimate number is now unique, and Check for updates shows which version you have before installing."
+  "notes": "Your company logo (uploaded in Settings) is now the icon in the browser tab and on the desktop Invoices shortcut. Also: each line item has a Text only checkbox, every invoice and estimate number is now unique, and Check for updates shows which version you have before installing."
 }
