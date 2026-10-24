@@ -1,6 +1,6 @@
 {
-  "version": "1.1.10",
+  "version": "1.1.11",
   "url": "https://raw.githubusercontent.com/Jmonsignore/invoice-app-updates/main/invoice-app.jar",
-  "sha256": "3d8fd61eaa7241fb07810386fc72cb25bf157e2f8ddce0face0b8dbb32c9b08c",
-  "notes": "Prepared by: set a default name in Settings, change it on each invoice or estimate, and it prints on the Excel and PDF. Text-only lines can now be bold and slightly larger (the B button)."
+  "sha256": "da3fec474f8eddee792c02ffa925900c3da1b37e760a9ac52e56166da8eaa9e5",
+  "notes": "New desktop icon: the Invoices shortcut now always shows the invoice icon, and it switches over by itself after this update. Uploading a company logo no longer changes the desktop icon (it still shows on the browser tab)."
 }
